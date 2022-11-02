@@ -623,7 +623,7 @@ body {
 }
 
 .sub-icon {
-    fill: #FFFFFF;
+    fill: var(--white-color)
 }
 
 
